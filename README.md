@@ -4,4 +4,4 @@ Weekly source code update for Rockstar Developer Course
 
 ## Resources
 
-- [Rockstar Developer Course](https://eimaung.com.rsd2025)
+- [Rockstar Developer Course](https://eimaung.com/rsd2025)
